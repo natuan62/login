@@ -1,0 +1,8 @@
+{
+  "name": "Login",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue",
+  "id": "e2bfd0e1"
+}
